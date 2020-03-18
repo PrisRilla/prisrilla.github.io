@@ -134,7 +134,7 @@ function generateHeader() {
         .attr("id", "name");
     section.append("h3")
         .text(`Cell: ${resumeData.header.cell}`)
-        .attr("id", "tel");
+        .attr("id", "cell");
     section.append("h3")
         .text(`Email: ${resumeData.header.email}`)
         .attr("id", "email");
