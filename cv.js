@@ -59,15 +59,33 @@ function data() {
 			"Conducted econometric research on college affordability and socioeconomic statuses of local minority groups which was used in the marketing material for the $eedMA program"           
                     ]
                 },
+
+		{
+		    duration: "May 2016 - Nov 2016",
+		    title: "Marketing and Consulting Associate",
+		    company: "Argopoint LLC",
+		    responsibilities: [
+			    "Improved web traffic from 17% to 50% of total traffic for specified keywords resulting in netting a Fortune 500 company client, bringing page link from Google page rank 3 to page rank 1"
+				      ],
+		}
+			
             ], //End of work section
             schoolProjects: [
                 {
                     duration: "Spring 2018",
-                    title: "Directed Study Thesis with advisory from Dr. Kent Hughes, Wilson Center Fellow",
+                    title: "Effects of Tax Cuts and Jobs Act (H.R.1. § 4968) on Universities and Student Financial Outcomes (Directed Study Thesis with advisory from Dr. Kent Hughes, Wilson Center Fellow)",
                     responsibilities: [
-                        "Researched the effect of a 1.4% excise tax on net investment income of private universities with thesis reviewed by head of economics department. Grade: A",
+                        "Researched the effect of a 1.4% excise tax on net investment income of private universities with thesis reviewed by head of economics department.",
+			"Grade: A"
                     ],
-                }
+                },
+
+		{
+		    duration: "2015 - 2016",
+		    title: "Boston University Student Government VP of Internal Affairs",
+		    responsibilities: [
+			    "Expanded organization by 300% working with a $55,000 budget creating meaningful impact through sponsorships",
+			    "Led culture initiative which won Excellence in Student Activities Award for ‘Best Collaboration’"
 
             ], //End of projects
             skills: [
