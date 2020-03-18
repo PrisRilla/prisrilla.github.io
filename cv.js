@@ -112,8 +112,8 @@ function data() {
                         "Microsoft Office",
 			"Networking & Communication"
                     ]
-                },
-            ]
+                }
+            ] //End of Skills
         };
     return data;
 }
