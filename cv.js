@@ -87,6 +87,7 @@ function data() {
 			    "Expanded organization by 300% working with a $55,000 budget creating meaningful impact through sponsorships",
 			    "Led culture initiative which won Excellence in Student Activities Award for ‘Best Collaboration’"
 
+		    ],
 		}
             ], //End of projects
             skills: [
