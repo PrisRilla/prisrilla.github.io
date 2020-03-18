@@ -74,7 +74,7 @@ function data() {
                     duration: "Spring 2018",
                     title: "Effects of Tax Cuts and Jobs Act (H.R.1. § 4968) on Universities and Student Financial Outcomes (Directed Study Thesis with advisory from Dr. Kent Hughes, Wilson Center Fellow)",
                     responsibilities: [
-                        "Researched the effect of a 1.4% excise tax on net investment income of private universities with thesis reviewed by head of economics department.",
+                        "Researched the effect of a 1.4% excise tax on net investment income of private universities with thesis reviewed by head of economics department",
 			"Grade: A"
                     ],
                 },
