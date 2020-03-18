@@ -6,9 +6,7 @@ function data() {
         {
             // Header almost never changes. 
             header: {
-                name: "Priscilla Cheng",
-                tel: "(646) 731-0877",
-                email: "priscillacheng221@gmail.com"
+                name: "Priscilla Cheng", cell: "(646) 731-0877", email: "priscillacheng221@gmail.com"
             },
             education: {
                 college: {
