@@ -6,8 +6,11 @@ function data() {
         {
             header: {
                 name: "Priscilla Cheng",
+<<<<<<< HEAD
 		cell: "(646) 731-0877",
 		email: "priscillacheng221@gmail.com"
+=======
+>>>>>>> e15a7e1ea948bee4aec2418f62f406496e2f7a26
             	    },
             education: {
                 college: {
