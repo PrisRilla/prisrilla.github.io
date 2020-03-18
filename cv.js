@@ -6,7 +6,9 @@ function data() {
         {
             // Header almost never changes. 
             header: {
-                name: "Priscilla Cheng", cell: "(646) 731-0877", email: "priscillacheng221@gmail.com"
+                name: "Priscilla Cheng",
+		tel: "(646) 731-0877",
+		email: "priscillacheng221@gmail.com"
             },
             education: {
                 college: {
@@ -25,66 +27,48 @@ function data() {
             },
             work: [
                 {
-                    duration: "2017-Present",
-                    title: "Software Engineer",
+                    duration: "2018-Present",
+                    title: "Data Analyst",
                     company: "Bloomberg LP",
                     responsibilities: [
-                        "Maintain and create Bloomberg data center management infrastructure",
-                        "Develop API endpoints using .NET Framework to allow programmatic access of various data center asset information, such as location and connectivity of server machines",
-                        "Create relational database functionality to maintain tree-like relations between datacenter assets using SQL transactions and graph algorithms",
-                        "Design UI screens to display data center information and enable workflows", 
-                        "Implement data visualization for energy consumption and fuel reserves within datacenters using Angular Framework and D3 library",
-                        "Improve continuous integration and deployment for Bloomberg Trading Systems using Apache Kafka and Github Web hooks",
-                        "Develop and maintain Golang libraries for use companywide to create microservices"
+                        "Saved team 1300+ hours annually and reduced rejection rates by 14.34% by preventing 32,000+ work items from being generated through insights extracted from JIRA and news data using Python (pandas, numpy, seaborn, matplotlib) and SQL",
+			"Coordinates between product managers, engineers, data scientists, and other client facing teams to develop mainstream pipeline for data routing by extracting data, developing ROIs, performing analyses, and overhauling team workflow to improve annotation quality for models",
+			"Created reusable modules for data extraction and transformation, putting in place structure granting flexible data access and bypassing 3 week data request approval",
+			"Generated powerful visualizations on immigration, green bonds, and office vacancies presented at Bloomberg’s Equality Summit and Canadian Fixed Income Conference events with over global 5000+ attendees, broadcasting to an audience of 437 million across live channels and Bloomberg TV",
+			"Integrated the largest Asian-American non-profit into Bloomberg Philanthropies as part of Global Pan-Asian Community Management; Recognized as Diversity & Inclusion Champion for planning milestone intersectionality event"
                     ]
                 },
+		    
                 {
-                    duration: "Summer 2016",
-                    title: "Engineering Intern",
-                    company: "Energy Metrics",
+                    duration: "May 2018 - Aug 2018",
+                    title: "Policy Data Analyst",
+                    company: "U.S. Council of Competitiveness",
                     responsibilities: [
-                        "Designed a Linux based micro-service that extends the capabilities of the Energy Metrics core software service, transforming a real time energy monitoring dashboard into robust software that provides analysis and insight into building energy usage",
-                        "Conducted energy simulations of building systems using EnergyPlus and OpenStudio",
-                        "Utilized C# and Ruby to calibrate simulation models with hourly real time data such as occupancy and air conditioning setpoints, allowing for greater accuracy in simulating building energy usage",
-                        "Created workflow to analyze energy usage data from building simulations using Python with NumPy and SciPy",
-                        "Performed fieldwork installing smart thermostats in various buildings to monitor and control air conditioning usage"
+                        "Published graphs on patent statistics in Council's annual publication and researched difference in differences impact of patent law implementation on global innovation and manufacturing trends",
+			"Wrote research reports on effectiveness of national labs' innovation accelerators and Cyclotron Road; Reports were used to help national labs modify their programs"
                     ]
                 },
+
                 {
-                    duration: "Summer 2015",
-                    title: "Web Developer",
-                    company: "Etza Group",
+                    duration: "June 2017 - Aug 2017",
+                    title: "Credit Analyst",
+                    company: "JP Morgan Chase & Co",
                     responsibilities: [
-                        "Utilized PHP and JavaScript to create frontend and backend solutions for various websites",
-                        "Implemented features such as user login and search using MySQL and PHP",
-                        "Ensured smooth and continuous user experience using techniques such as lazy loading",
-                        "Met with clients to design and properly detail the deliverables and timetables of various projects"
+                        "Finalist in Network & Philanthropy competition who spearheaded the successful permanent integration of a non-profit partnership with the firm to prepare underrepresented women for STEM high schools",
+			"Extracted and manipulated sort code/product code data to examine the balances of the top 20 performing  demand deposit accounts (DDAs) and their call report (Schedule RC-E) mapping"            
                     ],
-                    hideForResume: true
                 },
+
                 {
-                    duration: "Summer 2015",
-                    title: "Teaching Assistant",
-                    company: "The Cooper Union Summer Stem Program",
+                    duration: "May 2016 - Aug 2016",
+                    title: "Economic Empowerment Intern",
+                    company: "Massachusetts State Treasury",
                     responsibilities: [
-                        "Instructed the designing and prototyping of Rube Goldberg machines using salvaged parts",
-                        "Manufactured various components using machining equipment such as lathes, mills, and drills, as well as design software such as AutoCAD and SolidWorks",
-                        "Facilitated implementation of efficient solutions to coordinate movement of various components in Rube Goldberg machine"
+                        "Strategized with leaders on methods to engage and direct minority groups to start college savings with government's new $eedMA program",
+			"Conducted econometric research on college affordability and socioeconomic statuses of local minority groups which was used in the marketing material for the $eedMA program"           
                     ]
                 },
-                {
-                    duration: "2014-2017",
-                    title: "Student Manager",
-                    company: "Cooper Union Computer Center",
-                    responsibilities: [
-                        "Managed Computer Center student staff and acted as liaison between student workers and full time staff",
-                        "Maintained equipment and solved various IT related issues for students and faculty members",
-                        "Upgraded old and outdated equipment and software to modern computing standards",
-                        "Managed and distributed responsibilities to student staff"
-                    ],
-                    hideForResume: true
-                }
-            ],
+            ], //End of work section
             schoolProjects: [
                 {
                     duration: "Spring 2017",
@@ -133,7 +117,7 @@ function data() {
                     hideForResume: true
                 }
 
-            ],
+            ], //End of projects
             skills: [
                 {
                     category: "Programming Languages (Relevant Frameworks and Libraries)",
