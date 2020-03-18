@@ -26,7 +26,9 @@ function data() {
 			"Coordinates between product managers, engineers, data scientists, and other client facing teams to develop mainstream pipeline for data routing by extracting data, developing ROIs, performing analyses, and overhauling team workflow to improve annotation quality for models",
 			"Created reusable modules for data extraction and transformation, putting in place structure granting flexible data access and bypassing 3 week data request approval",
 			"Generated powerful visualizations on immigration, green bonds, and office vacancies presented at Bloomberg’s Equality Summit and Canadian Fixed Income Conference events with over global 5000+ attendees, broadcasting to an audience of 437 million across live channels and Bloomberg TV",
+			"Sets up and modifies corporate bonds as well as interface with high profile clients to address any requests regarding cashflow, exchanges, factors, pricing, and calculations"
 			"Integrated the largest Asian-American non-profit into Bloomberg Philanthropies as part of Global Pan-Asian Community Management; Recognized as Diversity & Inclusion Champion for planning milestone intersectionality event"
+
                     ]
                 },
 		    
