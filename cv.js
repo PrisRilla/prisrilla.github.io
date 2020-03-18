@@ -4,27 +4,18 @@ var sectionHeader = "h3";
 function data() {
     let data =
         {
-            // Header almost never changes. 
             header: {
                 name: "Priscilla Cheng",
 		tel: "(646) 731-0877",
 		email: "priscillacheng221@gmail.com"
-            },
+            	    },
             education: {
                 college: {
                     institution: "Boston University",
                     major: "B.A., Economics",
                     honors: ["GPA 3.52", "Dean's List"]
-                    /*
-                    I suppose...who cares at this point
-                    notableCourses: [
-                        "Computational Graph Models for Machine Learning",
-                        "Natural Language Processing",
-                        "Computer Operating Systems"
-                    ]
-                    */
-                }
-            },
+                       	 }
+            	       },
             work: [
                 {
                     duration: "2018-Present",
@@ -71,83 +62,37 @@ function data() {
             ], //End of work section
             schoolProjects: [
                 {
-                    duration: "Spring 2017",
-                    title: "Computational Graph Models for Machine Learning",
+                    duration: "Spring 2018",
+                    title: "Directed Study Thesis with advisory from Dr. Kent Hughes, Wilson Center Fellow",
                     responsibilities: [
-                        "Trained various neural networks for different tasks, such as distinguishing handwritten digits",
-                        "Utilize Wasserstein GAN Architecture neural networks to generate handwritten digits from arbitrary noise",
-                        "Apply a facial recognition technique to to time series data to classify brain waves readings, achieving 80% classification accuracy on unseen data"
-                    ]
-                },
-                {
-                    duration: "Fall 2017",
-                    title: "Autonomous Mobile Robots",
-                    responsibilities: [
-                        "Designed and manufactured a robot using various techniques such as laser cutting and 3D printing",
-                        "Competed against other robots in various competitions such as robot soccer and robot sumo",
-                        "Created algorithms to traverse field, as well as perform tasks such as object avoidance",
-                        "Programmed micro-controllers such as Arduino and PIC using C and Assembly",
-                        "Utilized master-slave Arduino configuration for processing sensor input while calculating movement in parallel"
-                    ]
-                },
-                {
-                    duration: "Spring 2016",
-                    title: "Natural Language Processing",
-                    responsibilities: [
-                        "Created model to classify various news snippets using a Naive Bayes approach, with 92% accuracy",
-                        "Implemented a model to solve SHSAT scrambled paragraphs using a mix of Naive Bayes and N-grams"
-                    ]
-                },
-                {
-                    duration: "Spring 2014",
-                    title: "Design and Prototyping",
-                    responsibilities: [
-                        "Designed and prototype an arcade machine by iterating through various prototypes and ideas via user feedback",
-                        "Created various injection mold designs for manufacturing wax candles",
+                        "Researched the effect of a 1.4% excise tax on net investment income of private universities with thesis reviewed by head of economics department. Grade: A",
                     ],
-                    hideForResume: true
-                },
-                {
-                    duration: "Fall 2013",
-                    title: "GAIA, Sustainable Greenhouse for the Future",
-                    responsibilities: [
-                        "Assisted in designing a self sustained greenhouse positioned on NYC rofftops that gathers required resources from surroundings and is adaptable to a wide variety of environments",
-                        "Designed external and internal water collection/distribution systems and internal hydroponics setups to facilitate healthy plant growth",
-                    ],
-                    hideForResume: true
                 }
 
             ], //End of projects
             skills: [
                 {
-                    category: "Programming Languages (Relevant Frameworks and Libraries)",
+                    category: "Technical",
                     items: [
-                        "C/C++",
-                        "C# (EntityFrameworks, WebAPI)",
-                        "JavaScript/TypeScript (Angular, D3)",
-                        "Python (Flask, NumPy, SciPy, Tensorflow)",
-                        "Matlab",
-                        "SQL/SQLite",
-                        "PHP",
-                        "HTML/CSS"
+                        "Python (Pandas, NumPy, Seaborn, Matplotlib)",
+                        "SQL",
+                        "STATA",
+                        "BASH",
+			"Microsoft SQL Server",
+			"Pycharm",
+			"Jupyter",
+			"Git"
                     ]
                 },
                 {
-                    category: "Software Tools and Suites",
+                    category: "Other",
                     items: [
-                        "SolidWorks",
-                        "AutoCAD",
-                        "Microsoft Office"
+                        "German (A2/B1)",
+                        "Cantonese (Native)",
+                        "Microsoft Office",
+			"Networking & Communication"
                     ]
                 },
-                {
-                    category: "Miscellaneous",
-                    items: [
-                        "Fluent in Mandarin and Shanghainese",
-                        "Long distance runner",
-                        "Kenpo practitioner"
-                    ]
-                }
             ]
         };
     return data;
