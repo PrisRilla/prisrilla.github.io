@@ -1,27 +1,20 @@
-// NOTE from current self to future self: 
-// One day you'll get real drunk and be dared to put your SSN on here
-// DON'T DO IT!!!! IT STAYS ON GITHUB FOREVER AND EVER AND EVER UNTIL THE END OF TIME
 var format = "cv";
 var resumeData = data();
 var sectionHeader = "h3";
 function data() {
-    // Can't be bothered to make a db just for this...
-    // Literally need this stuff every once in a blue moon
     let data =
         {
             // Header almost never changes. 
             header: {
-                name: "Zhengqi Xi",
-                tel: "(212) 617-4396",
-                email: "zxi8@bloomberg.net"
-                // NO SSN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-                // ABSOLUTELY NOT!!!!!
+                name: "Priscilla Cheng",
+                tel: "(646) 731-0877",
+                email: "priscillacheng221@gmail.com"
             },
             education: {
                 college: {
-                    institution: "Cooper Union for the Advancement of Science and Art",
-                    major: "Bachelor of Engineering, Mechanical Engineering",
-                    honors: ["Graduated Cum Laude (3.52)", "Full Tuition Scholarship"]
+                    institution: "Boston University",
+                    major: "B.A., Economics",
+                    honors: ["GPA 3.52", "Dean's List"]
                     /*
                     I suppose...who cares at this point
                     notableCourses: [
