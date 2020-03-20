@@ -1,7 +1,10 @@
-### Access Priscilla's Directory
+## Access Priscilla's Directory
+===
 
 Priscilla is providing a bare-bones github resume or ease of accessibility. She is current in the works of modernizing and creating her own website.
 In the meantime, please access her resume below. 
+
+---
 
 #### The structure of the resume is as follows:
 
@@ -14,6 +17,7 @@ Lists what I have done - most recent work experience first. Included a short job
 ##### :computer: Skills
 Skills are best described with a list. Listed my skills - most important and relevant first.
 
+---
 
 :arrow_double_down:    :arrow_double_down:    :arrow_double_down:
 :sparkles: https://prisrilla.github.io :sparkles:
