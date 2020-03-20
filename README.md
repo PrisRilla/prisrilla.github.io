@@ -1,20 +1,19 @@
 ## Access Priscilla's Directory
-===
 
 Priscilla is providing a bare-bones github resume or ease of accessibility. She is current in the works of modernizing and creating her own website.
 In the meantime, please access her resume below. 
 
 ---
 
-#### The structure of the resume is as follows:
+### The structure of the resume is as follows:
 
-##### :information_desk_person: Personal Information
+#### :information_desk_person: Personal Information
 Personal information includes name, cell, and email.
 
-##### :briefcase: Work Experience
+#### :briefcase: Work Experience
 Lists what I have done - most recent work experience first. Included a short job description and my responsibilities. Outlined my skills and selling points. :100:
 
-##### :computer: Skills
+#### :computer: Skills
 Skills are best described with a list. Listed my skills - most important and relevant first.
 
 ---
