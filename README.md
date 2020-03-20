@@ -1,7 +1,7 @@
 ## Access Priscilla's Directory
 
-Priscilla is providing a bare-bones github resume or ease of accessibility. She is current in the works of modernizing and creating her own website.
-In the meantime, please access her resume below. 
+Priscilla is providing a bare-bones github resume for ease of accessibility. She is currently in the works of modernizing and creating her own website.
+In the meantime, please access her resume below to find the essential content (the cooler content is in the works). :sunglasses: 
 
 ---
 
