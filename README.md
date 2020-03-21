@@ -21,7 +21,7 @@ Skills are best described with a list. Listed my skills - most important and rel
 :arrow_double_down:  Click  :arrow_double_down:  Below  :arrow_double_down:
 
 
-:sparkles: https://prisrilla.github.io :sparkles:
+:sparkles: https://bit.ly/priscilla-cheng-resume :sparkles:
 
 
 
