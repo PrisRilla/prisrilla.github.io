@@ -22,12 +22,13 @@ function data() {
                     title: "Data Analyst",
                     company: "Bloomberg LP",
                     responsibilities: [
-                        "Saved team 1300+ hours annually and reduced rejection rates by 14.34% by preventing 32,000+ work items from being generated through insights extracted from JIRA and news data using Python (pandas, numpy, seaborn, matplotlib) and SQL",
-			"Coordinates between product managers, engineers, data scientists, and other client facing teams to develop mainstream pipeline for data routing by extracting data, developing ROIs, performing analyses, and overhauling team workflow to improve annotation quality for models",
-			"Created reusable modules for data extraction and transformation, putting in place structure granting flexible data access and bypassing 3 week data request approval",
-			"Generated powerful visualizations on immigration, green bonds, and office vacancies presented at Bloomberg’s Equality Summit and Canadian Fixed Income Conference events with over global 5000+ attendees, broadcasting to an audience of 437 million across live channels and Bloomberg TV",
+                        "Saved team 1300+ hours annually, reduced workitem volume by 32%, and decreased rejection rates by 16% using insights extracted from JIRA, news, and operational data leveraging Python (pandas, seaborn, matplotlib) and SQL",
+			"Coordinated between product managers, engineers, and data scientists in the development of  procurement pipeline and conducted adhoc analyses, extracted data, developed ROIs, monitored logs, and assessed annotation quality for model performance; Expected 20% reduction in workflow volume",
+			"Generated powerful visualizations on immigration, green bonds, and office vacancies presented at Bloomberg’s Equality Summit and Canadian Fixed Income Conference events with over 10,000 global attendees, broadcasted to an audience of 437 million across live channels and Bloomberg TV",
+			"Reduced 12.7\% workflow volume by creating regex filter for Bloomberg UI to regulate the generation of work items from news alerts, bots, and messages",
+			"Writing microservice to operationalize workflow, conduct daily data quality checks, and raise alerts for data anomalies with expected 50% increase in team capacity",
 			"Sets up and modifies corporate bonds as well as interface with high profile clients to address any requests regarding cashflow, exchanges, factors, pricing, and calculations",
-			"Integrated the largest Asian-American non-profit into Bloomberg Philanthropies as part of Global Pan-Asian Community Management; Recognized as Diversity & Inclusion Champion for planning milestone intersectionality event"
+			"Integrated the largest Asian-American non-profit into Bloomberg Philanthropies as part of Global Pan-Asian Community Management; Recognized as Diversity & Inclusion Champion"
 
                     ]
                 },
@@ -47,7 +48,7 @@ function data() {
                     title: "Credit Analyst",
                     company: "JP Morgan Chase & Co",
                     responsibilities: [
-                        "Finalist in Network & Philanthropy competition who spearheaded the successful permanent integration of a non-profit partnership with the firm to prepare underrepresented women for STEM high schools",
+                        "Won Network & Philanthropy competition and spearheaded the successful permanent integration of a non-profit partnership with the firm to prepare underrepresented women for STEM high schools",
 			"Extracted and manipulated sort code/product code data to examine the balances of the top 20 performing  demand deposit accounts (DDAs) and their call report (Schedule RC-E) mapping"            
                     ],
                 },
@@ -57,8 +58,8 @@ function data() {
                     title: "Economic Empowerment Intern",
                     company: "Massachusetts State Treasury",
                     responsibilities: [
-                        "Strategized with leaders on methods to engage and direct minority groups to start college savings with government's new $eedMA program",
-			"Conducted econometric research on college affordability and socioeconomic statuses of local minority groups which was used in the marketing material for the $eedMA program"           
+                        "Strategized with leaders on methods to engage and direct minority groups to start college savings",
+			"Conducted econometric research on college affordability and socioeconomic statuses of local minority groups which was used in the marketing material for a college savings program"           
                     ]
                 },
 
@@ -96,7 +97,7 @@ function data() {
                 {
                     category: "Technical",
                     items: [
-                        "Python (Pandas, NumPy, Seaborn, Matplotlib)",
+                        "Python (Pandas, Seaborn, Matplotlib)",
                         "SQL",
                         "STATA",
                         "BASH",
